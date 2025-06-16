@@ -1,6 +1,10 @@
 # CADASTRO_CARRO7
 📘 PROJETO: SISTEMA DE CADASTRO DE VEÍCULOS
 
+👨‍💻 Integrantes:
+- Matheus Belniak Mendes — RGM 39239811  
+- Marcus Vinicius Morais De Sousa — RGM 39093271
+  
 🔖 Tema escolhido:
 Sistema multiusuário de cadastro de veículos, onde cada usuário pode registrar, visualizar, editar e excluir apenas os veículos que ele mesmo cadastrou. O sistema conta com login seguro, controle de sessões, uso de prepared statements e interface responsiva com Bootstrap.
 
